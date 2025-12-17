@@ -59,64 +59,211 @@ class HomePage extends StatelessWidget {
                 children: [
               
                    SizedBox(width:5),
-                  CircleAvatar(
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("Your Story"),
+                    ],
                     
-                    radius: 35,
                     
-              
-              
                   ),
               
                    SizedBox(width:6),
               
-                  CircleAvatar(
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
                     
-                    radius: 35,
-              
-              
+                    
                   ),
                   SizedBox(width:5),
               
-                  CircleAvatar(
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
                     
-                    radius: 35,
-              
-              
+                    
                   ),
-              
-                  SizedBox(width:5),
-              
-                  CircleAvatar(
+                  SizedBox(width:6),
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
                     
-                    radius: 35,
-              
-              
+                    
                   ),
                    SizedBox(width:5),
               
-                  CircleAvatar(
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                   Text("ABYZ"),
+                    ],
                     
-                    radius: 35,
-              
-              
-                  ),  
+                    
+                  ), 
               
                   SizedBox(width:5),
               
-                  CircleAvatar(
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
                     
-                    radius: 35,
-              
-              
+                    
                   ),
                   SizedBox(width:5),
               
-                  CircleAvatar(
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
                     
-                    radius: 35,
+                    
+                  ),    
+
+                  SizedBox(width:5),
               
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
+                    
+                    
+                  ), 
+                  SizedBox(width:5),
               
-                  ),                                
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
+                    
+                    
+                  ), 
+                  SizedBox(width:5),
+              
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
+                    
+                    
+                  ), 
+
+                   SizedBox(width:5),
+              
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                   Text("ABYZ"),
+                    ],
+                    
+                    
+                  ), 
+                   SizedBox(width:5),
+              
+                  Column(
+                    children: [
+                      CircleAvatar(
+                        
+                        radius: 35,
+                      
+                                    
+                                    
+                      ),
+                    SizedBox(height: 9),
+                    Text("ABYZ"),
+                    ],
+                    
+                    
+                  ),                                                                                                                 
                 ],
               ),
             ],
